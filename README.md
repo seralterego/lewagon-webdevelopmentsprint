@@ -16,7 +16,8 @@ Página de aprensentação bem simples da Le Wagon.
 
 
 ## 🎓 Aprendizados
-- Organização de código HTML e CSS
+- Organização de código HTML e CSS com box model
+- Seletores avançados
 - Elementos com <code>display: grid</code>
 - Personalização de fontes (Overpass e Chivo) com a tag <code>link</code>
 
@@ -32,6 +33,9 @@ Euuuuuu mesmo!
 
 ## 🎯 Status
 - Concluído
+
+## 🖥️ Resultado
+🔗 https://seralterego.github.io/lewagon-webdevelopmentsprint/
 
 ## © Licença
 - [MIT](https://choosealicense.com/licenses/mit/)
